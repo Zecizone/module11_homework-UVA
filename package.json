@@ -6,10 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aneelia/learn-js.git"
-  },
+  "repository": "git+https://github.com/aneelia/learn-js.git",
   "author": "aneelia",
   "license": "ISC",
   "bugs": {
