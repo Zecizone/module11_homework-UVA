@@ -1,3 +1,7 @@
-export function multiply(a, b) {
-    return a * b;
-}
+export function multiply(n) {
+	for (let i = n; i >= 1; --i) {
+  	console.log(i);
+  };
+};
+
+multiply(3);
